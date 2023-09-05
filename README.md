@@ -1,4 +1,4 @@
-# Twitter Bot
+# ElCruzo's Twitter Bot
 
 Welocme to this repository containing the script for a Twitter bot built using Python.
 
