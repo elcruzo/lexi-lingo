@@ -101,13 +101,13 @@ You can search for tweets containing a specific keyword using the bot. Uncomment
 # print([tweet.text for tweet in tweets])
 ```
 
+## Author(s)
+
+[ElCruzo](https://github.com/elcruzo/)
+
 ## License
 
 This Twitter bot is open-source software licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Author
-
-[ElCruzo](https://github.com/elcruzo/)
 
 ---
 
