@@ -8,7 +8,7 @@ Welocme to this repository containing the script for a Twitter bot built using P
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [License](#license)
-- [Author](#author)
+- [Authors](#author)
 - [License](#license)
 
 ## Description
