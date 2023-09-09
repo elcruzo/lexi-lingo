@@ -42,7 +42,7 @@ To use this Twitter bot, you need to set up your Twitter API keys and install th
 4. Run the bot script:
 
    ```bash
-   python twitter_bot.py
+   python main.py
    ```
 
 ## Features
