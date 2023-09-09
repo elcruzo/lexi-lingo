@@ -1,4 +1,4 @@
-# ElCruzo's Twitter Bot
+# LexiLingo
 
 Welocme to this repository containing the script for a Twitter bot built using Python.
 
@@ -20,8 +20,8 @@ To use this Twitter bot, you need to set up your Twitter API keys and install th
 1. Clone the repository to your local machine and navigate to the project directory:
 
    ```bash
-   git clone https://github.com/elcruzo/twitter-bot.git
-   cd twitter-bot
+   git clone https://github.com/elcruzo/lexi-lingo.git
+   cd lexi-lingo
    ```
    
 2. Create a file named `twitterkeys` and add your Twitter API keys in the following format:
